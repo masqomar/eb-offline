@@ -13,10 +13,10 @@
                                 <div class="mb-5">
                                     <div class="text-center mb-4">
                                         <a href="#!">
-                                            <img src="./assets/img/bsb-logo.svg" alt="BootstrapBrain Logo" width="175" height="57">
+                                            <img src="https://kampunginggrisbooster.com/wp-content/uploads/2024/07/english-booster-logo-768x180.png" alt="English Booster Logo" width="175" height="57">
                                         </a>
                                     </div>
-                                    <h2 class="h4 text-center">Registration</h2>
+                                    <h2 class="h4 text-center">Registration Form</h2>
                                     <h3 class="fs-6 fw-normal text-secondary text-center m-0">Enter your details to register</h3>
                                 </div>
                             </div>
